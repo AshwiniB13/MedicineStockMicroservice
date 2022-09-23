@@ -1,0 +1,6 @@
+D:\Ashwini\TRAINING\.Net FullStackAzure\Projects\ClassLibraries\EmployeeLib\MedicineStockMicroservice\obj\Debug\net5.0\MedicineStockMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ashwini\TRAINING\.Net FullStackAzure\Projects\ClassLibraries\EmployeeLib\MedicineStockMicroservice\obj\Debug\net5.0\MedicineStockMicroservice.AssemblyInfoInputs.cache
+D:\Ashwini\TRAINING\.Net FullStackAzure\Projects\ClassLibraries\EmployeeLib\MedicineStockMicroservice\obj\Debug\net5.0\MedicineStockMicroservice.AssemblyInfo.cs
+D:\Ashwini\TRAINING\.Net FullStackAzure\Projects\ClassLibraries\EmployeeLib\MedicineStockMicroservice\obj\Debug\net5.0\MedicineStockMicroservice.csproj.CoreCompileInputs.cache
+D:\Ashwini\TRAINING\.Net FullStackAzure\Projects\ClassLibraries\EmployeeLib\MedicineStockMicroservice\obj\Debug\net5.0\MedicineStockMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Ashwini\TRAINING\.Net FullStackAzure\Projects\ClassLibraries\EmployeeLib\MedicineStockMicroservice\obj\Debug\net5.0\MedicineStockMicroservice.MvcApplicationPartsAssemblyInfo.cache
