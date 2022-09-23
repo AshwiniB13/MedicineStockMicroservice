@@ -11,6 +11,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace MedicineStockMicroservice
 {
@@ -27,7 +28,7 @@ namespace MedicineStockMicroservice
         public void ConfigureServices(IServiceCollection services)
         {
 
-            services.AddDbContext<CSPharmacyMedicineSupplyManagement.Models.PharmacyMedicineSupplyManagementContext>();
+            services.AddDbContext<CSPharmacyMedicineSupplyManagement.Models.PharmacyMedicineSupplyManagementContext>(c => c.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
